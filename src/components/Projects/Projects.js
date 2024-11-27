@@ -72,7 +72,7 @@ function Projects() {
               title="SubZero AI"
               description="Using 'Natural Launguage Processing' to use ChatGPT 4o"
               ghLink="https://github.com/MrFr3nk/SubZero-AI"
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
+              demoLink="https://wa.me/26371964303" <--------Please include a demo link here
             />
           </Col>
 
